@@ -252,7 +252,7 @@ def open_fill_in_the_blank_game():
 
 ##### window stuff #####
 root = tk.Tk()
-root.title("Word Translation Game")
+root.title("TAMU Thematic Translator")
 root.geometry("1200x900")
 
 selected_language = tk.StringVar()
